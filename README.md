@@ -1,9 +1,19 @@
-# Binary Classification Network Projects
+# Binary Classification Neural Networks
 
-## So I coded these projects to get hands on experience with Neural Networks
+A Collection of Binary Classification Models I Coded on Classification Networks
 
-## Things I learned =|
+# Things Covered
 
-## 1. Logits & Probabilties
-## 2. Experimentation & Sigmoid Function
-## 3. Accuracy, Precision & Recall Scores
+- Loss Functions
+- Optimizers & Gradients
+- Transfer Learning & Experimentation
+- Grid Searches & Evaluation
+- Network Architecture
+
+# Tools 
+
+- Pandas
+- Matplotlib
+- Scikit Learn
+- Pytorch
+- Miscellanous Libraries
