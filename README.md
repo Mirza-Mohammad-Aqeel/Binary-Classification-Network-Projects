@@ -17,3 +17,8 @@ A Collection of Binary Classification Models I Coded on Classification Networks
 - Scikit Learn
 - Pytorch
 - Miscellanous Libraries
+
+# Resources
+
+- Youtube Link 1 = https://www.youtube.com/watch?v=V_xro1bcAuA&t=7922s
+- Youtube Link 2 = https://www.youtube.com/watch?v=LyJtbe__2i0
